@@ -1,0 +1,27 @@
+游戏组成部分：
+1，Scene  场景
+2，GameObject  游戏对象
+3，Component  组件
+4，Property  属性
+
+六个引擎视图：
+1，Project View   项目视图
+2,Hierarchy View  结构视图
+3,Inspector View  检查器视图
+4,Scene View  场景视图
+5,Game View  游戏视图
+6,Console View   控制台视图
+
+Unity Asset Store 官方素材商店
+
+碰撞条件：
+1，碰撞双方挂载碰撞体Collider组件
+2，其中一方挂载RigidBody刚体组件
+在脚本中添加触发方法
+
+血条：UGUI中的Slider控件
+
+在Unity脚本中声明的public对象，可以在检查器视图中可视化的查看，修改
+
+在代码中添加print（“Q”）；然后在控制台中查看是否有Q输出来检查代码的执行情况
+
